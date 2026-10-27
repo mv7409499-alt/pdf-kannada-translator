@@ -1,0 +1,4 @@
+Flask
+PyMuPDF
+deep-translator
+gunicorn
